@@ -215,7 +215,7 @@
     "memorystream": "^0.3.1",
     "merge2": "^1.4.1",
     "micro-ftch": "^0.3.1",
-    "micromatch": "^4.0.7",
+    "micromatch": "^4.0.8",
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "minimalistic-assert": "^1.0.1",
